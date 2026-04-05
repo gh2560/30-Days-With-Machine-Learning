@@ -13,4 +13,4 @@ Customer Churn Prediction
 - Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 Book Recommender (cosine similarity)
-- Dataset: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+- Dataset: https://www.kaggle.com/datasets/arashnic/book-recommendation-datasetko

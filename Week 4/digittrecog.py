@@ -67,6 +67,7 @@ class NeuralNetwork:
         labels = np.argmax(y_true_oh, axis=1)
         return np.mean(predictions == labels)
 
+
 # --- Chuẩn bị dữ liệu ---
 print("Dang tai du lieu MNIST...")
 (X_train, y_train), (X_test, y_test) = mnist.load_data()
